@@ -5,5 +5,3 @@ F
 src/main/java/gui.java,3\2\3229c921d172438135ef40facd70bc7fc375517d
 F
 src/main/java/gui.form,1\3\13b9b4ee1d9bdb31c37161bafced5b542ebfbe60
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
